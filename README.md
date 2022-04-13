@@ -1,8 +1,8 @@
 # Cotações de Moedas com AwesomeAPI
 
-Este repositório foi criado durante um exercício de Python da [Hashtag Programação](https://www.youtube.com/c/HashtagPrograma%C3%A7%C3%A3o).
+Este repositório foi criado durante um exercício de Python da [Hashtag Programação](https://www.youtube.com/c/HashtagPrograma%C3%A7%C3%A3o). 
 
-Temos um código no Jupyter Notebook que realiza uma consulta via API e armazena os valores da cotação atual na planilha do Excel.
+O código realiza uma consulta via API e armazena os valores da cotação atual em uma planilha do Excel, além dos valores, temos a data e o horáro da consulta realizada.
 
 ### Códigos das moedas:
 
