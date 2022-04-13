@@ -2,6 +2,8 @@
 
 Este repositório foi criado durante um exercício de Python da [Hashtag Programação](https://www.youtube.com/c/HashtagPrograma%C3%A7%C3%A3o).
 
+Temos um código no Jupyter Notebook que realiza uma consulta via API e armazena os valores da cotação atual na planilha do Excel.
+
 ### Códigos das moedas:
 
 - Veja a lista completa de combinações em https://economia.awesomeapi.com.br/xml/available
